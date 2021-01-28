@@ -3,5 +3,9 @@ Minecraft Manhunt is a minigame where one player tries to beat the game, while u
 
 (This is only recommended. You can play with as many players as you want. 1-4 is just the most fun.)
 
+## Usage
+/manhunt arg1
+arg1 being the username of the player you want to HUNT, not be a HUNTER.
+
 
 :)
