@@ -1,0 +1,9 @@
+name: Manhunt
+version: 1.0
+author: wtrfl
+main: com.themonomew.Manhunt.Main
+description: In this plugin, you try and beat the ender dragon, while your friends try and stop you!
+
+commands:
+  manhunt:
+    description: Sets the player to be hunted.
